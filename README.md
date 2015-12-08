@@ -1,8 +1,6 @@
 # brainfux
-
-brainfux
 ===============
-Brainfuck interpreter and turing machine sonifier
+Brainfuck interpreter and Turing machine sonifier
 --------------
 
 
